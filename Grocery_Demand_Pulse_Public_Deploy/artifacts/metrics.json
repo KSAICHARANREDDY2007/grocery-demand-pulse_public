@@ -1,0 +1,24 @@
+{
+  "best_regressor": "Decision Tree (depth 3)",
+  "regression": {
+    "Baseline: same as yesterday": {
+      "MAE": 1.9307236842105242,
+      "RMSE": 7.666793776358558
+    },
+    "Linear Regression": {
+      "MAE": 1.5124168130411326,
+      "RMSE": 5.552774392513013
+    },
+    "Decision Tree (depth 3)": {
+      "MAE": 1.4878777569252193,
+      "RMSE": 5.495671312187046
+    }
+  },
+  "classification": {
+    "Accuracy": 0.7598684210526315,
+    "Precision": 0.6129032258064516,
+    "Recall": 0.06354515050167224,
+    "F1": 0.11515151515151516,
+    "Baseline accuracy (always 'no sale')": 0.7541118421052632
+  }
+}
